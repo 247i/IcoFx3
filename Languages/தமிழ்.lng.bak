@@ -2170,463 +2170,463 @@ btnAddSwatch.Hint=ஸ்வாட்ச்களில் சேர்
 
 [frmShapes]
 frmShapes.Caption=Shapes
-dlgOpen.Title=Open Shapes
-dlgSave.Title=Save Shapes
-actNew.Caption=New Shape...
-actNew.Hint=New Shape...
-actSmallThumb.Caption=Small Thumbnail
-actMediumThumb.Caption=Medium Thumbnail
-actLargeThumb.Caption=Large Thumbnail
-actSmallList.Caption=Small List
-actMediumList.Caption=Medium List
-actLargeList.Caption=Large List
-actTextOnly.Caption=Text Only
-actClear.Caption=Clear Shapes
-actDelete.Caption=Delete Shape
-actDelete.Hint=Delete Shape
+dlgOpen.Title=திறந்த வடிவங்கள்
+dlgSave.Title=வடிவங்களை சேமி
+actNew.Caption=புதிய வடிவம்...
+actNew.Hint=புதிய வடிவம்...
+actSmallThumb.Caption=சிறிய சிறுபடம்
+actMediumThumb.Caption=நடுத்தர சிறுபடம்
+actLargeThumb.Caption=பெரிய சிறுபடம்
+actSmallList.Caption=சிறிய பட்டியல்
+actMediumList.Caption=நடுத்தர பட்டியல்
+actLargeList.Caption=பெரிய பட்டியல்
+actTextOnly.Caption=உரை மட்டும்
+actClear.Caption=தெளிவான வடிவங்கள்
+actDelete.Caption=வடிவத்தை நீக்கு
+actDelete.Hint=வடிவத்தை நீக்கு
 actEdit.Caption=Edit Shape...
-actEdit.Hint=Edit Shape...
+actEdit.Hint=திருத்து வடிவ...
 actSave.Caption=Save Shapes...
 actSave.Hint=Save Shapes...
 actLoad.Caption=Load Shapes...
 actLoad.Hint=Load Shapes...
-actDefault.Caption=Reset Shapes
+actDefault.Caption=வடிவங்களை மீட்டமை
 actDuplicate.Caption=Duplicate Shape
-actDuplicate.Hint=Duplicate Shape
-actReorder.Caption=Allow reordering
+actDuplicate.Hint=நகல் வடிவம்
+actReorder.Caption=மறுவரிசைப்படுத்தலை அனுமதி
 
 [frmShapeEdit]
 frmShapeEdit.Caption=Shape Editor
-lblName.Caption=Name
-lblPath.Caption=Path Data
-btnCancel.Caption=Cancel
-btnOK.Caption=OK
+lblName.Caption=பெயர்
+lblPath.Caption=பாதை தரவு
+btnCancel.Caption=ரத்துசெய்
+btnOK.Caption=சரி
 
 [frmToolShapes]
 lblAngle.Caption=Angle
 lblFlip.Caption=Flip
-btnFlipH.Hint=Flip horizontally
-btnFlipV.Hint=Flip vertically
-imgStyle.Hint=Style
-imgShape.Hint=Shape
+btnFlipH.Hint=கிடைமட்டமாக புரட்டவும்
+btnFlipV.Hint=செங்குத்தாக புரட்டவும்
+imgStyle.Hint=நடை
+imgShape.Hint=வடிவம்
 btnApply.Caption=Apply
-btnCancel.Caption=Cancel
-actNoStyle.Caption=No Style
+btnCancel.Caption=ரத்துசெய்
+actNoStyle.Caption=நடை இல்லை
 
 [frmInfo]
-lblInit.Caption=Initializing icon sets. Please wait.
+lblInit.Caption=ஐகான் செட்களை துவக்குகிறது. தயவுசெய்து காத்திருக்கவும்.
 
 
 [DLG]
-Warning=Warning
-Error=Error
-Information=Information
-Confirm=Confirm
-Yes=&Yes
-No=&No
-OK=OK
-Cancel=Cancel
+Warning=எச்சரிக்கை
+Error=பிழை
+Information=தகவல்
+Confirm=உறுதிப்படுத்து
+Yes=&ஆம்
+No=&இல்லை
+OK=சரி
+Cancel=ரத்து
 Abort=&Abort
-Retry=&Retry
-Ignore=&Ignore
-All=&All
+Retry=&மீண்டும் முயற்சிக்கவும்
+Ignore=&புறக்கணி
+All=&அனைத்து
 NoToAll=N&o to All
-YesToAll=Yes to &All
-Help=&Help
-Close=&Close
+YesToAll=அனைவருக்கும் ஆம்
+Help=&உதவி
+Close=&மூடு
 
 [MSG]
-msgUntitled=Untitled
-msgCustom=Custom
-msgTranslation=Language file translation
+msgUntitled=பெயரிடப்படாத
+msgCustom=தனிப்பயன்
+msgTranslation=மொழி கோப்பு மொழிபெயர்ப்பு
 
-# Check version text
-msgVersionNO=You have the latest version of IcoFX.
-msgVersionYES=A free update is available.
-msgVersionError=Failed to check version. - Timed out.
-msgVersionYESFreeUpgrade=A free upgrade is available.
-msgVersionYESUpgrade=An upgrade is available.
-msgWhatIsNew=What's new
-msgDownload=Download
-msgInstall=Install at exit
+# பதிப்பு உரையைச் சரிபார்க்கவும்
+msgVersionNO=IcoFX இன் சமீபத்திய பதிப்பு உங்களிடம் உள்ளது.
+msgVersionYES=இலவச மேம்படுத்தல் உள்ளது.
+msgVersionError=பதிப்பைச் சரிபார்க்க முடியவில்லை. - நேரம் கடந்துவிட்டது.
+msgVersionYESFreeUpgrade=இலவச மேம்படுத்தல் உள்ளது.
+msgVersionYESUpgrade=ஒரு மேம்படுத்தல் உள்ளது.
+msgWhatIsNew=புதிதாக என்ன இருக்கிறது
+msgDownload=பதிவிறக்கு
+msgInstall=வெளியேறும்போது நிறுவவும்
 
 
-# Workspace text
-msgDelWorkspace=Delete workspace %s ?
-msgSaveWorkspace=Workspace %s already exists. Overwrite?
+# பணியிட உரை
+msgDelWorkspace=%s பணியிடத்தை நீக்கவா?
+msgSaveWorkspace=பணியிடம் %s ஏற்கனவே உள்ளது. மேலெழுதவா?
 
-# Swatches text
-msgSaveFile=The file %s already exists. Overwrite?
-msgClearSwatches=Delete all swatches?
-msgClearOnLoad=Clear existing swatches before load?
-msgDefaultLoad=Existing swatches will be lost. Continue?
+# உரையை மாற்றுகிறது
+msgSaveFile=%s கோப்பு ஏற்கனவே உள்ளது. மேலெழுதவா?
+msgClearSwatches=எல்லா ஸ்வாட்சுகளையும் நீக்கவா?
+msgClearOnLoad=ஏற்றப்படும் முன் இருக்கும் ஸ்வாட்ச்களை அழிக்கவா?
+msgDefaultLoad=தற்போதுள்ள ஸ்வாட்ச்கள் இழக்கப்படும். தொடரவா?
 
-# Gradients text
-msgClearGradients=Delete all gradients?
-msgClearGrdOnLoad=Clear existing gradients before load?
-msgDefaultGrdLoad=Existing gradients will be lost. Continue?
+# சாய்வு உரை
+msgClearGradients=அனைத்து சாய்வுகளையும் நீக்கவா?
+msgClearGrdOnLoad=ஏற்றப்படும் முன் ஏற்கனவே உள்ள சாய்வுகளை அழிக்கவா?
+msgDefaultGrdLoad=ஏற்கனவே இருக்கும் சாய்வுகள் இழக்கப்படும். தொடரவா?
 
-# Brushes text
-msgClearBrushes=Delete all brushes?
-msgClearBrOnLoad=Clear existing brushes before load?
-msgDefaultBrLoad=Existing brushes will be lost. Continue?
+# தூரிகைகள் உரை
+msgClearBrushes=அனைத்து தூரிகைகளையும் நீக்கவா?
+msgClearBrOnLoad=ஏற்றப்படும் முன் இருக்கும் தூரிகைகளை அழிக்கவா?
+msgDefaultBrLoad=இருக்கும் தூரிகைகள் இழக்கப்படும். தொடரவா?
 
-# message dialog 
-msgCapWarning=Warning
-msgCapError=Error
-msgCapInformation=Information
-msgCapConfirmation=Confirm
-msgCapCustom=Custom
+# செய்தி உரையாடல்
+msgCapWarning=எச்சரிக்கை
+msgCapError=பிழை
+msgCapInformation=தகவல்
+msgCapConfirmation=உறுதிப்படுத்தவும்
+msgCapCustom=தனிப்பயன்
 
-# Shortcut texts
-msgShortcut=Shortcut
-msgMenuCmd=Menu Command
-msgPanelCmd=Panel Command
-msgToolCmd=Tool Panel Command
-msgInUse=The shortcut %s1 is already in use by "%s2"!
-msgBadShortcut="%s1" is an invalid shortcut. A shortcut must include Ctrl and/or Alt and/or an F-key!
-msgBadToolShortcut="%s1" is an invalid shortcut. A Tool shortcut must contain only a single character!
-msgFileName=IcoFX Shortcuts
-msgSrtTitle=IcoFX 3 Keyboard Shortcuts
-msgSrtCommand=Command
-msgStrMenu=Application Menus
-msgStrPanel=Panel Menus
-msgStrTool=Tools
-msgApplyShortcut=Apply changes before summarizing?
+# குறுக்குவழி உரைகள்
+msgShortcut=குறுக்குவழி
+msgMenuCmd=மெனு கட்டளை
+msgPanelCmd=பேனல் கட்டளை
+msgToolCmd=டூல் பேனல் கட்டளை
+msgInUse=%s1 குறுக்குவழி ஏற்கனவே "%s2" ஆல் பயன்பாட்டில் உள்ளது!
+msgBadShortcut="%s1" என்பது தவறான குறுக்குவழி. குறுக்குவழியில் Ctrl மற்றும்/அல்லது Alt மற்றும்/அல்லது F-key இருக்க வேண்டும்!
+msgBadToolShortcut="%s1" என்பது தவறான குறுக்குவழி. ஒரு கருவி குறுக்குவழியில் ஒரு எழுத்து மட்டுமே இருக்க வேண்டும்!
+msgFileName=IcoFX குறுக்குவழிகள்
+msgSrtTitle=IcoFX 3 விசைப்பலகை குறுக்குவழிகள்
+msgSrtCommand=கட்டளை
+msgStrMenu=பயன்பாட்டு மெனுக்கள்
+msgStrPanel=பேனல் மெனுக்கள்
+msgStrTool=கருவிகள்
+msgApplyShortcut=சுருக்கமாக மாற்றுவதற்கு முன் மாற்றங்களைப் பயன்படுத்தவா?
 
-# File type related text
-msgNoFile=File %s1 not found!
-msgInvalidPal=Invalid palette file!
-msgPal=Microsoft Palette File
-msgAct=Adobe Color Table
+# கோப்பு வகை தொடர்பான உரை
+msgNoFile=%s1 கோப்பு காணப்படவில்லை!
+msgInvalidPal=தவறான தட்டு கோப்பு!
+msgPal=மைக்ரோசாப்ட் தட்டு கோப்பு
+msgAct=Adobe கலர் டேபிள்
 msgAco=Swatches
-msgAllPal=All supported palette files
-msgInvalidGrd=Invalid gradient file!
-msgGrd=Gradients
-msgInvalidBrs=Invalid brush file!
-msgBrs=Brushes
-msgInvalidRep=Invalid color replace file!
-msgRep=Color Replace
-msgAlreadyOpen=The file %s is already open!
-msgInvalidIfx=Invalid IcoFX image file!
-msgIco=Windows Icon
-msgCur=Windows Cursor
-msgAni=Animated Cursor
-msgBmp=Bitmap Image
-msgJpg=Jpeg Image
-msgXpm=Xpm Image
-msgJpg2000=Jpeg 2000 Image
-msgPng=Portable Network Graphic
-msgApng=Animated Portable Network Graphic
-msgGif=Gif Image
-msgIfx=IcoFX Image
-msgTiff=Tagged Image File Format
-msgMacBinary=Macintosh Binary
-msgMacIcon=Macintosh Icon
-msgWin16Binary=Windows 16 bit Binary
-msgWin32Binary=Windows Binary
-msgAcf=Custom filter
-msgIcl=Icon Library
-msgCul=Cursor Library
-msgAll=All Formats
-msgAllImg=All Image Formats
-msgSvg=Scalable Vector Graphics
-msgExe=Executable
-msgOcx=OCX Files
-msgDll=Dynamic Link Library
-msgBin=MacBin files
-msgApple=AppleSingle or AppleDouble files
-msgRes=Macintosh Resource Fork
-msgFxs=Script icofx
-msgWebp=Web Picture Format
+msgAllPal=ஆதரிக்கப்படும் அனைத்து தட்டு கோப்புகளும்
+msgInvalidGrd=தவறான சாய்வு கோப்பு!
+msgGrd=கிரேடியண்ட்ஸ்
+msgInvalidBrs=தவறான தூரிகை கோப்பு!
+msgBrs=தூரிகைகள்
+msgInvalidRep=தவறான வண்ண மாற்று கோப்பு!
+msgRep=வண்ணத்தை மாற்றவும்
+msgAlreadyOpen=%s கோப்பு ஏற்கனவே திறக்கப்பட்டுள்ளது!
+msgInvalidIfx=தவறான IcoFX படக் கோப்பு!
+msgIco=Windows ஐகான்
+msgCur=விண்டோஸ் கர்சர்
+msgAni=அனிமேஷன் கர்சர்
+msgBmp=பிட்மேப் படம்
+msgJpg=Jpeg படம்
+msgXpm=Xpm படம்
+msgJpg2000=Jpeg 2000 படம்
+msgPng=போர்ட்டபிள் நெட்வொர்க் கிராஃபிc
+msgApng=அனிமேஷன் போர்ட்டபிள் நெட்வொர்க் கிராஃபிக்
+msgGif=Gif படம்
+msgIfx=IcoFX படம்
+msgTiff=குறியிடப்பட்ட பட கோப்பு வடிவம்
+msgMacBinary=மேகிண்டோஷ் பைனரி
+msgMacIcon=மேகிண்டோஷ் ஐகான்
+msgWin16Binary=Windows 16 பிட் பைனரி
+msgWin32Binary=Windows பைனரி
+msgAcf=தனிப்பயன் வடிகட்டி
+msgIcl=ஐகான் நூலகம்
+msgCul=கர்சர் நூலகம்
+msgAll=அனைத்து வடிவங்களும்
+msgAllImg=அனைத்து பட வடிவங்களும்
+msgSvg=அளவிடக்கூடிய வெக்டர் கிராபிக்ஸ்
+msgExe=இயக்கக்கூடியது
+msgOcx=OCX கோப்புகள்
+msgDll=டைனமிக் இணைப்பு நூலகம்
+msgBin=MacBin கோப்புகள்
+msgApple=AppleSingle அல்லது AppleDouble கோப்புகள்
+msgRes=மேகிண்டோஷ் ரிசோர்ஸ் ஃபோர்க்
+msgFxs=ஸ்கிரிப்ட் icofx
+msgWebp=இணையப் பட வடிவம்
 
-# palette 
-msgManyColors=The palette contains %i1 colors, some colors were ignored.
-msgFewColors=The palette was containing only %i1 colors.
+# தட்டு
+msgManyColors=தட்டானது %i1 வண்ணங்களைக் கொண்டுள்ளது, சில வண்ணங்கள் புறக்கணிக்கப்பட்டன.
+msgFewColors=தட்டானது %i1 வண்ணங்களை மட்டுமே கொண்டிருந்தது.
 
-# blend modes
-msgBlendNormal=Normal
-msgBlendMultiply=Multiply
-msgBlendAdditive=Additive
-msgBlendBurn=Color Burn
-msgBlendDodge=Color Dodge
-msgBlendReflect=Reflect
+# கலப்பு முறைகள்
+msgBlendNormal=இயல்பு
+msgBlendMultiply=பெருக்கி
+msgBlendAdditive=சேர்க்கை
+msgBlendBurn=வண்ண எரிப்பு
+msgBlendDodge=கலர் டாட்ஜ்
+msgBlendReflect=பிரதிபலிப்பு
 msgBlendGlow=Glow
-msgBlendOverlay=Overlay
-msgBlendDifference=Difference
-msgBlendNegation=Negation
+msgBlendOverlay=மேலே
+msgBlendDifference=வேறுபாடு
+msgBlendNegation=எதிர்ப்பு
 msgBlendLighten=Lighten
-msgBlendDarken=Darken
-msgBlendScreen=Screen
-msgBlendExclusion=Exclusion
+msgBlendDarken= இருட்டடிப்பு
+msgBlendScreen=திரை
+msgBlendExclusion=விலக்கு
 msgBlendHue=Hue
-msgBlendSat=Saturation
-msgBlendColor=Color
-msgBlendBrightness=Brightness
-msgBlendSoftLight=Soft Light
-msgBlendHardLight=Hard Light
-msgBlendPinLight=Pin Light
-msgFreeze=Freeze
-msgHeat=Heat
-msgSubtractive=Subtractive
+msgBlendSat=நிறைவு
+msgBlendColor=வண்ணம்
+msgBlendBrightness=பிரகாசம்
+msgBlendSoftLight=மென்மையான ஒளி
+msgBlendHardLight=கடின ஒளி
+msgBlendPinLight=பின் ஒளி
+msgFreeze=முடக்கு
+msgHeat=வெப்பம்
+msgSubtractive=கழித்தல்
 
-# IO texts
-msgInvalidFormat=Invalid File Format!
-msgBigImg=Image ignored: Too large (%i1x%i2)
-msgNotSupported=%i1 bit images are not supported!
-msgFileNotFound=The file %s1 does not exist!
-msgNoBlack=The palette does not include the color Black.
-msgEntryLimit=Too many entries in the icon.
-msgUnknownImage=The following unknown images were found inside the icon: %s1. If you save the icon these images will be lost!
-msgNoImage=Invalid image inside the icon.
-msgNoImgWin=The icon/cursor doesn't contain images that are compatible with the Windows icon/cursor format!
-msgNoImgMac=The icon doesn't contain images that are compatible with the Macintosh icon format!
-msgIgnore=The following unsupported images were not saved:
-msgErrorSave=Cannot save file %s!
-msgErrorOpen=Cannot open file %s!
+# IO உரைகள்
+msgInvalidFormat=தவறான கோப்பு வடிவம்!
+msgBigImg=படம் புறக்கணிக்கப்பட்டது: மிகப் பெரியது (%i1x%i2)
+msgNotSupported=%i1 பிட் படங்கள் ஆதரிக்கப்படவில்லை!
+msgFileNotFound=%s1 கோப்பு இல்லை!
+msgNoBlack=தட்டில் கருப்பு நிறம் இல்லை.
+msgEntryLimit=ஐகானில் பல உள்ளீடுகள்.
+msgUnknownImage=ஐகானில் பின்வரும் அறியப்படாத படங்கள் காணப்பட்டன: %s1. நீங்கள் ஐகானைச் சேமித்தால் இந்தப் படங்கள் தொலைந்து போகும்!
+msgNoImage=ஐகானுக்குள் தவறான படம்.
+msgNoImgWin=ஐகான்/கர்சரில் விண்டோஸ் ஐகான்/கர்சர் வடிவத்துடன் இணக்கமான படங்கள் இல்லை!
+msgNoImgMac=Macintosh ஐகான் வடிவத்துடன் இணக்கமான படங்கள் ஐகானில் இல்லை!
+msgIgnore=பின்வரும் ஆதரிக்கப்படாத படங்கள் சேமிக்கப்படவில்லை:
+msgErrorSave=%s கோப்பை சேமிக்க முடியாது!
+msgErrorOpen=%s கோப்பை திறக்க முடியாது!
 
-# register 
-msgUnreg=Unregistered Version
-msgReg=Registered to %s
+# பதிவு
+msgUnreg=பதிவு செய்யப்படாத பதிப்பு
+msgReg=%s இல் பதிவு செய்யப்பட்டது
 
-# extract
-msgNotMacBinary=Invalid MacBinary file.
-msgNotAppleSingle=Invalid AppleSingle or AppleDouble file.
-msgNotResFork=Invalid resource fork.
-msgIcon=Icon %i1
-msgCursor=Cursor %i1
-msgNoIcon=The file does not contain icons.
-msgNoCursor=The file does not contain cursors.
+# சாறு
+msgNotMacBinary=தவறான MacBinary கோப்பு.
+msgNotAppleSingle=தவறான AppleSingle அல்லது AppleDouble கோப்பு.
+msgNotResFork=தவறான ரிசோர்ஸ் ஃபோர்க்.
+msgIcon=ஐகான் %i1
+msgCursor=கர்சர் %i1
+msgNoIcon=கோப்பில் சின்னங்கள் இல்லை.
+msgNoCursor=கோப்பில் கர்சர்கள் இல்லை.
 
-#Explorer texts
-msgDelFavorite=The folder %s1 does not exist. Remove it from favorites?
+#எக்ஸ்ப்ளோரர் நூல்கள்
+msgDelFavorite=%s1 கோப்புறை இல்லை. பிடித்தவற்றிலிருந்து அகற்றவா?
 
-#Layer texts
-msgLayer=Layer
+#அடுக்கு நூல்கள்
+msgLayer=அடுக்கு
 
-#History texts
-msgHistDir=Select a folder for storing history files.
-msgOutDir=Select the output folder.
-msgDiskFull=Cannot save history to %s1! |Disk is full.
+#வரலாற்று நூல்கள்
+msgHistDir=வரலாற்று கோப்புகளை சேமிப்பதற்கான கோப்புறையைத் தேர்ந்தெடுக்கவும்.
+msgOutDir=வெளியீட்டு கோப்புறையைத் தேர்ந்தெடுக்கவும்.
+msgDiskFull=வரலாற்றை %s1 இல் சேமிக்க முடியாது! |வட்டு நிரம்பியுள்ளது.
 
-# Import
-msgImport=Import
-msgImportMsg=The imported image is larger than the canvas!
-msgOp1=Resize the image
-msgOp2=Crop (top-left corner)
-msgOp3=Show the Import dialog for more options
-msgNewIcoImg=New Icon Image
-msgNewCurImg=New Cursor Image
+# இறக்குமதி
+msgImport=இறக்குமதி
+msgImportMsg=இறக்குமதி செய்யப்பட்ட படம் கேன்வாஸை விட பெரியது!
+msgOp1=படத்தின் அளவை மாற்றவும்
+msgOp2=செதுக்குதல் (மேல்-இடது மூலையில்)
+msgOp3=மேலும் விருப்பங்களுக்கு இறக்குமதி உரையாடலைக் காட்டு
+msgNewIcoImg=புதிய ஐகான் படம்
+msgNewCurImg=புதிய கர்சர் படம்
 
-# Paste
-msgPaste=Paste
-msgPasteMsg=The pasted image is larger than the canvas!
+# ஒட்டு
+msgPaste=ஒட்டு
+msgPasteMsg=ஒட்டப்பட்ட படம் கேன்வாஸை விட பெரியது!
 
-# Open
-msgOpen=Open
-msgOpenMsg=You are about to open an image!
-msgOpenOp1=Open as an image
-msgOpenOp2=Create a Windows icon from the image
-msgOpenOp3=Create a cursor from the image
-msgOpenOp4=Create an animated cursor from the image
-msgOpenOp5=Create a Mac icon from the image
+# திற
+msgOpen=திற
+msgOpenMsg=நீங்கள் ஒரு படத்தை திறக்க உள்ளீர்கள்!
+msgOpenOp1=படமாக திற
+msgOpenOp2=படத்திலிருந்து விண்டோஸ் ஐகானை உருவாக்கவும்
+msgOpenOp3=படத்திலிருந்து கர்சரை உருவாக்கவும்
+msgOpenOp4=படத்திலிருந்து ஒரு அனிமேஷன் கர்சரை உருவாக்கவும்
+msgOpenOp5=படத்திலிருந்து ஒரு Mac ஐகானை உருவாக்கவும்
 
-#Palette
-msgPalette=Palette Change
-msgPaletteMsg=The palette is about to be changed!
-msgPalOp1=Change the palette (recommended for 8 bit images)
-msgPalOp2=Don't change the palette (recommended for 4 or 1 bit images)
-msgPalOp3=Automatic
+#தட்டு
+msgPalette=தட்டு மாற்றம்
+msgPaletteMsg= தட்டு மாற்றப்பட உள்ளது!
+msgPalOp1=தட்டத்தை மாற்றவும் (8 பிட் படங்களுக்கு பரிந்துரைக்கப்படுகிறது)
+msgPalOp2=தட்டத்தை மாற்ற வேண்டாம் (4 அல்லது 1 பிட் படங்களுக்கு பரிந்துரைக்கப்படுகிறது)
+msgPalOp3=தானியங்கி
 
-msgLastEffect=Last Effect (%s1)
+msgLastEffect=கடைசி விளைவு (%s1)
 
-msgSnapshotError=Error creating snapshot. Try closing a few windows.
-msgNotUnique=The image size is already used or not supported!
-msgDeleteImg=Delete the selected image(s)? (This cannot be undone!)
-msgImage=Image
+msgSnapshotError=ஸ்னாப்ஷாட்டை உருவாக்குவதில் பிழை. சில சாளரங்களை மூட முயற்சிக்கவும்.
+msgNotUnique=பட அளவு ஏற்கனவே பயன்படுத்தப்பட்டது அல்லது ஆதரிக்கப்படவில்லை!
+msgDeleteImg=தேர்ந்தெடுக்கப்பட்ட படத்தை(களை) நீக்கவா? (இதை முடிக்காமல் விட கூடாது!)
+msgImage=படம்
 msgFrame=Frame
 
-# res editor
-msgNeutral=Language Neutral
-msgSave=Save changes to %s1 ?
-msgResNameExists=The resource name and language pair already exists!
-msgSaveSuccess=File saved successfully!
-msgErrorSaveRes=Cannot save file. Make sure it is not read-only or compressed.
-msgNo32Bit=The file %s1 is not a 32 or 64 bit Windows file!
-msgConvert=16 bit libraries are deprecated. Convert to 32 bit library?
+# ரெஸ் எடிட்டர்
+msgNeutral=மொழி நடுநிலை
+msgSave=%s1 இல் மாற்றங்களைச் சேமிக்கவா?
+msgResNameExists=வளத்தின் பெயர் மற்றும் மொழி ஜோடி ஏற்கனவே உள்ளது!
+msgSaveSuccess=கோப்பு வெற்றிகரமாக சேமிக்கப்பட்டது!
+msgErrorSaveRes=கோப்பைச் சேமிக்க முடியாது. இது படிக்க மட்டும் அல்லது சுருக்கப்படவில்லை என்பதை உறுதிப்படுத்தவும்.
+msgNo32Bit=%s1 கோப்பு 32 அல்லது 64 பிட் விண்டோஸ் கோப்பு அல்ல!
+msgConvert=16 பிட் நூலகங்கள் நிறுத்தப்பட்டன. 32 பிட் நூலகமாக மாற்றவா?
 
 msgResIco=Icon Resource Editor
-msgResCur=Cursor Resource Editor
+msgResCur=கர்சர் ஆதார எடிட்டர்
 
-# Batch process
-msgBit=1 bit
-msgBits= %i1 bits
-msgCol=The format %s1 already exists in the list.
-msgWarning=Warning: 
-msgSuccess=Success: 
-msgError=Error: 
-msgProcessing=Processing: 
-msgSuccessReason=File created successfully
-msgErrOpen=Cannot open file
-msgErrSave=Cannot save file
-msgNoIcon=The file does not contain icons
-msgNoCur=The file does not contain cursors
-msgCancelled=Operation cancelled!
-msgComplete=Operation completed!
-msgIgnored=Some images were ignored!
-msgClose=Close
+# தொகுதி செயல்முறை
+msgBit=1 பிட்
+msgBits= %i1 பிட்கள்
+msgCol=%s1 வடிவம் ஏற்கனவே பட்டியலில் உள்ளது.
+msgWarning=எச்சரிக்கை:
+msgSuccess=வெற்றி:
+msgError=பிழை:
+msgProcessing=Processing:
+msgSuccessReason=கோப்பு வெற்றிகரமாக உருவாக்கப்பட்டது
+msgErrOpen=கோப்பை திறக்க முடியாது
+msgErrSave=கோப்பைச் சேமிக்க முடியாது
+msgNoIcon=கோப்பில் சின்னங்கள் இல்லை
+msgNoCur=கோப்பில் கர்சர்கள் இல்லை
+msgCancelled=செயல்பாடு ரத்து செய்யப்பட்டது!
+msgComplete=செயல்பாடு முடிந்தது!
+msgIgnored=சில படங்கள் புறக்கணிக்கப்பட்டன!
+msgClose=மூடு
 
-msgTransp=Transparent
+msgTransp=வெளிப்படையானது
 
 msgDrop=Drop Selection
-msgDuplicate=Cannot duplicate file!
-msgTrial=You can't add more than 5 files in the trial version.
-msgTrial2=Save will be disabled after %i1 starts.
-msgTrial3=The trial period has expired.| All the save features have been disabled.| Do you want to purchase the full version?
-msgTrial4=The trial period has expired. All the save features have been disabled.
-msgTrial5=IcoFX is successfully registered.|Thank you for registering your copy.
-#msgTrial6=Save will be disabled after %i1 days.
-msgTrial6=TRIAL INFORMATION    The trial period of IcoFX expires in %i1 days.
-msgTrial7=(Trial)
-msgTrial8=You can't execute more than 5 commands in the trial version.
+msgDuplicate=கோப்பை நகலெடுக்க முடியாது!
+msgTrial=நீங்கள் சோதனை பதிப்பில் 5 கோப்புகளுக்கு மேல் சேர்க்க முடியாது.
+msgTrial2=%i1 தொடங்கிய பிறகு சேமி முடக்கப்படும்.
+msgTrial3=சோதனை காலம் முடிந்துவிட்டதுஎட்.| அனைத்து சேமிப்பு அம்சங்களும் முடக்கப்பட்டுள்ளன.| முழுப் பதிப்பையும் வாங்க விரும்புகிறீர்களா?
+msgTrial4=சோதனை காலம் முடிந்துவிட்டது. அனைத்து சேமிப்பு அம்சங்களும் முடக்கப்பட்டுள்ளன.
+msgTrial5=IcoFX வெற்றிகரமாக பதிவு செய்யப்பட்டது.|உங்கள் நகலை பதிவு செய்ததற்கு நன்றி.
+#msgTrial6=%i1 நாட்களுக்குப் பிறகு சேமித்தல் முடக்கப்படும்.
+msgTrial6=சோதனை தகவல் IcoFX இன் சோதனைக் காலம் %i1 நாட்களில் முடிவடைகிறது.
+msgTrial7=(சோதனை)
+msgTrial8=நீங்கள் சோதனை பதிப்பில் 5 கட்டளைகளுக்கு மேல் இயக்க முடியாது.
 
-# languages
-msgDownloadError=Error downloading language file!
-msgDownloadSuccess=Download successful. Change language to %s1 ?
-msgNoUpdate=You already have the latest version of the language file.
+# மொழிகள்
+msgDownloadError=மொழிக் கோப்பைப் பதிவிறக்குவதில் பிழை!
+msgDownloadSuccess=பதிவிறக்கம் வெற்றிகரமாக உள்ளது. மொழியை %s1க்கு மாற்றவா?
+msgNoUpdate=உங்களிடம் ஏற்கனவே மொழிக் கோப்பின் சமீபத்திய பதிப்பு உள்ளது.
 
-# color combo box colors
-msgColor.Item0=Custom...
-msgColor.Item1=Black
-msgColor.Item2=Maroon
-msgColor.Item3=Green
-msgColor.Item4=Olive
-msgColor.Item5=Navy
-msgColor.Item6=Purple
+# வண்ண சேர்க்கை பெட்டி வண்ணங்கள்
+msgColor.Item0=தனிப்பயன்...
+msgColor.Item1=கருப்பு
+msgColor.Item2=மெரூன்
+msgColor.Item3=பச்சை
+msgColor.Item4=ஆலிவ்
+msgColor.Item5=கடற்படை
+msgColor.Item6=ஊதா
 msgColor.Item7=Teal
 msgColor.Item8=Gray
-msgColor.Item9=Silver
-msgColor.Item10=Red
-msgColor.Item11=Lime
-msgColor.Item12=Yellow
-msgColor.Item13=Blue
+msgColor.Item9=வெள்ளி
+msgColor.Item10=சிவப்பு
+msgColor.Item11=சுண்ணாம்பு
+msgColor.Item12=மஞ்சள்
+msgColor.Item13=நீலம்
 msgColor.Item14=Fuchsia
-msgColor.Item15=Aqua
-msgColor.Item16=White
-msgColor.Item17=Money Green
+msgColor.Item15=அக்வா
+msgColor.Item16=வெள்ளை
+msgColor.Item17=பணம் பச்சை
 msgColor.Item18=Sky Blue
-msgColor.Item19=Cream
-msgColor.Item20=Medium Gray
+msgColor.Item19=கிரீம்
+msgColor.Item20=நடுத்தர சாம்பல்
 
-msgNoUndo=This operation was cancelled because it would create an invalid image.
-msgImageSize=Image Size
-msgCanvasSize=Canvas Size
-msgNewIcl=New Icon Library
-msgNewCul=New Cursor Library
-msgInvalidInstall=IcoFX was not correctly installed. Please reinstall it.
-msgNoSelection=There is no selection to subtract from.
+msgNoUndo=இந்த செயல்பாடு ஒரு தவறான படத்தை உருவாக்கும் என்பதால் ரத்து செய்யப்பட்டது.
+msgImageSize=பட அளவு
+msgCanvasSize=கேன்வாஸ் அளவு
+msgNewIcl=புதிய ஐகான் நூலகம்
+msgNewCul=புதிய கர்சர் நூலகம்
+msgInvalidInstall=IcoFX சரியாக நிறுவப்படவில்லை. தயவுசெய்து அதை மீண்டும் நிறுவவும்.
+msgNoSelection=கழிப்பதற்கு தேர்வு எதுவும் இல்லை.
 
-# customization
-msgNotCust=Cannot customize folder!
-msgRestart=Restart Windows to see the customization.
-msgNotRemCust=Cannot remove customization!
+# தனிப்பயனாக்கம்
+msgNotCust=கோப்புறையைத் தனிப்பயனாக்க முடியாது!
+msgRestart=தனிப்பயனாக்கத்தைக் காண விண்டோஸை மறுதொடக்கம் செய்யுங்கள்.
+msgNotRemCust=தனிப்பயனாக்கத்தை அகற்ற முடியாது!
 
-msgNoLayer=This image format does not support layers. Layers will be merged in the saved image.
+msgNoLayer=இந்த பட வடிவம் அடுக்குகளை ஆதரிக்காது. சேமித்த படத்தில் அடுக்குகள் ஒன்றிணைக்கப்படும்.
 
-msgTypeIco=Icon
-msgTypeImg=Image
-msgTypeCur=Cursor
-msgTypeAni=Animation
-msgTypeBar=Image Strip
+msgTypeIco=ஐகான்
+msgTypeImg=படம்
+msgTypeCur=கர்சர்
+msgTypeAni=அனிமேஷன்
+msgTypeBar=பட துண்டு
 
-msgTolerance=Tolerance
+msgTolerance=சகிப்புத்தன்மை
 
-msgOpenToolbar=Open Toolbar Image Strip
-msgOpenToolbarMsg=You are about to open an image strip!
-msgOpenToolbarOp1=Open as an image strip
-msgOpenToolbarOp2=Do not open as an image strip
-msgOpenToolbarDef=Always open as an image strip
+msgOpenToolbar=திறந்த கருவிப்பட்டி பட துண்டு
+msgOpenToolbarMsg=நீங்கள் ஒரு படத் துண்டுகளைத் திறக்க உள்ளீர்கள்!
+msgOpenToolbarOp1=பட துண்டுகளாக திறக்கவும்
+msgOpenToolbarOp2=பட துண்டுகளாக திறக்க வேண்டாம்
+msgOpenToolbarDef=எப்பொழுதும் படத் துண்டுகளாகத் திறக்கவும்
 
-msgCannotAdd=Cannot add additional image.
+msgCannotAdd=கூடுதல் படத்தை சேர்க்க முடியாது.
 
-msgOpenLink=Open Shortcut
-msgOpenLinkMsg=You are about to open a shortcut (*.lnk)!
-msgOpenLinkOp1=Open the target
-msgOpenLinkOp2=Open the icon
+msgOpenLink=திறந்த குறுக்குவழி
+msgOpenLinkMsg=நீங்கள் ஒரு குறுக்குவழியை (*.lnk) திறக்க உள்ளீர்கள்!
+msgOpenLinkOp1=இலக்கை திறக்கவும்
+msgOpenLinkOp2=ஐகானைத் திறக்கவும்
 
-# actions
-msgActionName=Action Name
-msgActions=Actions
-msgAction=Action
-msgClearActOnLoad=Clear existing actions before load?
-msgClearActions=Delete all actions?
-msgDefaultActLoad=Existing actions will be lost. Continue?
-msgInvalidAct=Invalid action file!
+# செயல்கள்
+msgActionName=செயல் பெயர்
+msgActions=செயல்கள்
+msgAction=செயல்
+msgClearActOnLoad=ஏற்றப்படும் முன் இருக்கும் செயல்களை அழிக்கவா?
+msgClearActions=அனைத்து செயல்களையும் நீக்கவா?
+msgDefaultActLoad=இருக்கும் செயல்கள் இழக்கப்படும். தொடரவா?
+msgInvalidAct=தவறான செயல் கோப்பு!
 
-msgDefault=Default
-msgDelShortcut=Delete shortcut %s ?
-msgSaveShortcut=Shortcut %s already exists. Overwrite?
-msgSaveShortcutCaption=Save Shortcuts
-msgSummarize=Save Shortcut Summary
+msgDefault=இயல்புநிலை
+msgDelShortcut=%s குறுக்குவழியை நீக்கவா?
+msgSaveShortcut=%s குறுக்குவழி ஏற்கனவே உள்ளது. மேலெழுதவா?
+msgSaveShortcutCaption=குறுக்குவழிகளைச் சேமி
+msgSummarize=குறுக்குவழிச் சுருக்கத்தைச் சேமி
 
-msgSample=Sample
+msgSample=மாதிரி
 
-msgBorderColor=Border Color
-msgGridColor=Grid Color
+msgBorderColor=பார்டர் வண்ணம்
+msgGridColor=கிரிட் நிறம்
 
-# Styles text
-msgClearStyles=Delete all styles?
-msgClearStyleOnLoad=Clear existing styles before load?
-msgDefaultStyleLoad=Existing styles will be lost. Continue?
-msgInvalidStyle = Invalid style file!
-msgStyles=Styles
-msgStroke=Stroke
-msgNoStyle=No Style
+# நடைகள் உரை
+msgClearStyles=எல்லா பாணிகளையும் நீக்கவா?
+msgClearStyleOnLoad=ஏற்றப்படும் முன் இருக்கும் பாணிகளை அழிக்கவா?
+msgDefaultStyleLoad=இருக்கும் நடைகள் இழக்கப்படும். தொடரவா?
+msgInvalidStyle = தவறான நடை கோப்பு!
+msgStyles=பாங்குகள்
+msgStroke=பக்கவாதம்
+msgNoStyle=நடை இல்லை
 
-#icon sizes
-msgIcsName=Name
-msgIcsNameUsed=Name is already in use!
-msgIcsDel=Delete %s?
-msgIcsNoDel=Cannot delete %s!
+#ஐகான் அளவுகள்
+msgIcsName=பெயர்
+msgIcsNameUsed=பெயர் ஏற்கனவே பயன்பாட்டில் உள்ளது!
+msgIcsDel=%s ஐ நீக்கவா?
+msgIcsNoDel=%s ஐ நீக்க முடியாது!
 
-msgDeleteImg2=Deleteing images cannot be undone. Continue?
-msgDelImg=The icon contains images that are not compatible with the Macintosh icon format. These images will be deleted! Continue?
-msgDelImg2=The icon contains images that are not compatible with the Windows icon format. These images will be deleted! Continue?
-msgNotSupported=%i1 bit images are not supported!
+msgDeleteImg2=படங்களை நீக்குவதை செயல்தவிர்க்க முடியாது. தொடரவா?
+msgDelImg=மேகிண்டோஷ் ஐகான் வடிவத்துடன் பொருந்தாத படங்களை ஐகான் கொண்டுள்ளது. இந்தப் படங்கள் நீக்கப்படும்! தொடரவா?
+msgDelImg2=விண்டோஸ் ஐகான் வடிவத்துடன் பொருந்தாத படங்களை ஐகான் கொண்டுள்ளது. இந்தப் படங்கள் நீக்கப்படும்! தொடரவா?
+msgNotSupported=%i1 பிட் படங்கள் ஆதரிக்கப்படவில்லை!
 
-msgOpenGroup=Open Image Group
-msgOpenGroupMsg=You are about to open images with similar names!
-msgOpenGroupOp1=Combine to Windows icon
-msgOpenGroupOp2=Combine to Macintosh icon
-msgOpenGroupOp3=Combine to cursor
-msgOpenGroupOp3=Don't combine
+msgOpenGroup=படக் குழுவைத் திற
+msgOpenGroupMsg=ஒரே மாதிரியான பெயர்களைக் கொண்ட படங்களைத் திறக்க உள்ளீர்கள்!
+msgOpenGroupOp1=விண்டோஸ் ஐகானுடன் இணைக்கவும்
+msgOpenGroupOp2=மேகிண்டோஷ் ஐகானுடன் இணைக்கவும்
+msgOpenGroupOp3=கர்சருடன் இணைக்கவும்
+msgOpenGroupOp3=இணைக்க வேண்டாம்
 
-#script errors
-msgErrorUnknownCmd=Unknown command
-msgErrorUnknownParam=Unknown parameter name
-msgErrorUnknownParamVal=Invalid parameter value
-msgErrorFileName=Command does not need file names
-msgErrorMissingParam=Missing parameter
+#ஸ்கிரிப்ட் பிழைகள்
+msgErrorUnknownCmd=தெரியாத கட்டளை
+msgErrorUnknownParam=தெரியாத அளவுரு பெயர்
+msgErrorUnknownParamVal=தவறான அளவுரு மதிப்பு
+msgErrorFileName=கட்டளைக்கு கோப்பு பெயர்கள் தேவையில்லை
+msgErrorMissingParam=அளவுரு காணவில்லை
 
-msgResDel=Deleted
-msgResNoDel=Cannot delete
-msgResAdd=Added
-msgResNoAdd=Cannot add
-msgSaveResName=Saving resource names...
-msgResNoSave=Nothing to save.
-msgSleep=Waiting %i1 milliseconds...
-msgSleepSec=Waiting %i1 seconds...
+msgResDel=அழிக்கப்பட்டது
+msgResNoDel=அழிக்க முடியாது
+msgResAdd=சேர்க்கப்பட்டது
+msgResNoAdd=சேர்க்க முடியாது
+msgSaveResName=வளப் பெயர்களைச் சேமிக்கிறது...
+msgResNoSave=சேமிப்பதற்கு எதுவும் இல்லை.
+msgSleep=%i1 மில்லி விநாடிகள் காத்திருக்கிறது...
+msgSleepSec=%i1 வினாடிகள் காத்திருக்கிறது...
 
-msgSelected=Selected Image
-msgCreateMobile=Creating mobile icons: 
-msgContext=Open with icofx
-msgContextConvert=Convert to icon
+msgSelected=தேர்ந்தெடுக்கப்பட்ட படம்
+msgCreateMobile=மொபைல் ஐகான்களை உருவாக்குதல்:
+msgContext=icofx உடன் திறக்கவும்
+msgContextConvert=ஐகானாக மாற்றவும்
 
-Flat=Flat
-Fluent=Fluent
-Monochrome=Monochrome
+Flat=பிளாட்
+Fluent=சரளமாக
+Monochrome=மோனோக்ரோம்
 
-msgInvalidColl=Invalid icon collection file!
+msgInvalidColl=தவறான ஐகான் சேகரிப்பு கோப்பு!
 
 msgDelIcons=Delete selected icons?
 msdDuplicateIcons=Duplicate selected icons?
