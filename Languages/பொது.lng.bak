@@ -1002,7 +1002,7 @@ actZoomFit.Hint=திரைக்கு பொருத்தவும்
 actZoomIn.Caption=பெரிதாக்கவும்
 actZoomIn.Hint=பெரிதாக்கவும்
 actZoomOut.Caption=ஜூம் அவுட்
-actZoomOut.Hint = பெரிதாக்கவும்
+actZoomOut.Hint= பெரிதாக்கவும்
 
 [frmToolBrush]
 lblSize.Caption=அளவு
@@ -1061,10 +1061,10 @@ btnRegister.Caption=பதிவு
 btnPaste.Hint=ஒட்டு
 
 [frmExtract]
-frmExtract.Caption = பிரித்தெடுத்தல்
+frmExtract.Caption= பிரித்தெடுத்தல்
 lblType.Caption=ஆதார வகை
 btnCancel.Caption=ரத்துசெய்
-btnExtract.Caption = பிரித்தெடுத்தல்
+btnExtract.Caption=பிரித்தெடுத்தல்
 btnEdit.Caption=நூலகத்தைத் திருத்து
 cmbType.Item0=சின்னங்கள்
 cmbType.Item1=கர்சர்கள்
@@ -1136,7 +1136,7 @@ cbPreview.Caption=முன்னோட்டம்
 lblHue.Caption=Hue
 lblSaturation.Caption=நிறைவு
 lblBrightness.Caption=பிரகாசம்
-grpமுறை.Caption= முறை
+grpMethod.Caption= முறை
 rbMaster.Caption=மாஸ்டர்
 rbRange.Caption=Range
 rbColorize.Caption=வண்ணமாக்கு
@@ -1266,7 +1266,7 @@ frmTest.Caption=கர்சர் சோதனை
 btnCancel.Caption=மூடு
 grpDraw.Caption= டெஸ்ட் டிரா
 grpControl.Caption= சோதனைக் கட்டுப்பாடுகள்
-பட்டன்1.Caption=பொத்தான்
+Button1.Caption=பொத்தான்
 RadioButton1.Caption=Radio 1
 RadioButton2.Caption=Radio 2
 CheckBox1.Caption=செக்பாக்ஸ்
@@ -1448,7 +1448,7 @@ btnDiag1.Hint=மூலைவிட்ட (கீழ்-மேல்)
 btnDiag2.Hint=மூலைவிட்ட (மேல்-கீழ்)
 btnDiamond.Hint=வைரம்
 btnRadial.Hint=ரேடியல்
-சாய்வு.Caption= சாய்வு
+Gradient.Caption= சாய்வு
 btnReset.Caption=மீட்டமை
 grpColor.Caption= நிறம்
 lblPosition.Caption=நிலை
@@ -1508,7 +1508,7 @@ btnCancel.Caption=ரத்துசெய்
 [frmFrames]
 frmFrames.Caption=Frames
 btnCancel.Caption=ரத்துசெய்
-btnExtract.Caption = பிரித்தெடுத்தல்
+btnExtract.Caption= பிரித்தெடுத்தல்
 btnExtractToAni.Caption=ANIக்கு பிரித்தெடுக்கவும்
 btnOpen.Caption=திறந்த அனிமேஷன்
 
@@ -1550,7 +1550,7 @@ lblHardness.Caption=கடினத்தன்மை
 lblTolerance.Caption=சகிப்புத்தன்மை
 
 [frmBatchResult]
-frmBatchResult.Caption=பேட்ch செயல்முறை
+frmBatchResult.Caption=பேட்ச் செயல்முறை
 btnCancel.Caption=ரத்துசெய்
 
 [frmToolText]
@@ -1717,9 +1717,9 @@ lblHeight.Caption=உயரம்
 grpNew.Caption= புதிய அளவு
 lblWidth2.Caption=அகலம்
 lblHeight2.Caption=உயரம்
-லேபிள்1.Caption=இடது
-லேபிள்2.Caption=மேல்
-லேபிள்3.Caption=வலது
+Label1.Caption=இடது
+Label2.Caption=மேல்
+Label3.Caption=வலது
 Label4.Caption=கீழே
 cbEqual.Caption=பக்கங்களை சமமாக விரிவாக்கு
 btnCancel.Caption=ரத்துசெய்
@@ -1735,7 +1735,7 @@ rbBottom.Caption=கீழ் வலது
 btnCancel.Caption=ரத்துசெய்
 btnOK.Caption=சரி
 
-[FrmTrial]
+[frmTrial]
 frmTrial.Caption=சோதனை பதிப்பு
 btnReg.Caption=பதிவு...
 btnPurchase.Caption=இப்போது வாங்கவும்
@@ -1938,7 +1938,7 @@ lblShadowOpac.Caption=ஒளிபுகாநிலை
 lblShadowSize.Caption=அளவு
 lblShadowColor.Caption=வண்ணம்
 lblShadowPosX.Caption=X நிலை
-lbl நிழல்PosY.Caption=Y நிலை
+lblShadowPosY.Caption=Y நிலை
 lblShadowSoften.Caption=மென்மையாக்கு
 
 [frmGradientDropDown]
@@ -1958,8 +1958,8 @@ btnCustomColor.Caption=தனிப்பயன் நிறம்...
 btnColPicker.Caption=கலர் பிக்கர்
 pnlRecent.Caption=சமீபத்திய நிறங்கள்
 
-[வரவேற்பு]
-frmWelcome.Caption = வரவேற்கிறோம்
+[frmWelcome]
+frmWelcome.Caption= வரவேற்கிறோம்
 lblRecent.Caption=சமீபத்திய
 lblOpen.Caption=திற
 lblNew.Caption=புதிய
@@ -1979,15 +1979,15 @@ msgIcl=புதிய ஐகான் நூலகம்
 msgCul=புதிய கர்சர் நூலகம்
 
 [frmScript]
-frmScript.Caption = ஸ்கிரிப்டை இயக்கவும்
+frmScript.Caption= ஸ்கிரிப்டை இயக்கவும்
 actNew.Caption=புதிய
 actNew.Hint=புதிய
 actOpen.Caption=Open
 actOpen.Hint=திற
 actSave.Caption=Save
 actSave.Hint=சேமி
-actUndo.Caption = செயல்தவிர்
-actUndo.Hint = செயல்தவிர்
+actUndo.Caption= செயல்தவிர்
+actUndo.Hint= செயல்தவிர்
 actRedo.Caption=மீண்டும் செய்
 actRedo.Hint=மீண்டும் செய்
 actRun.Caption=Run
@@ -2060,9 +2060,9 @@ edtRadiusTopRight.Hint=ஆரம்
 edtRadiusBottomRight.Hint=ஆரம்
 edtRadiusBottomLeft.Hint=ஆரம்
 edtExtraTopLeft.Hint=வட்டமான தன்மை
-edtExtraTopRight.Hint = வட்டமானது
-edtExtraBottomRight.Hint = வட்டமானது
-edtExtraBottomLeft.Hint = வட்டமானது
+edtExtraTopRight.Hint= வட்டமானது
+edtExtraBottomRight.Hint= வட்டமானது
+edtExtraBottomLeft.Hint= வட்டமானது
 cmbStyleTopLeft.Hint=நடை
 cmbStyleTopRight.Hint=நடை
 cmbStyleBottomRight.Hint=Style
@@ -2098,9 +2098,9 @@ cbReplaceColSymbol.Caption=நிறங்களை மாற்றவும்
 lblCollection.Caption=சேகரிப்பு
 lblIconSets.Caption=ஐகான் செட்
 lblSymbols.Caption=சின்னங்கள்
-lblOverlays.Caption = மேலடுக்குகள்
+lblOverlays.Caption= மேலடுக்குகள்
 edtSearch.TextHint=தேடு... (Ctrl + F)
-dlgSave.Title = சேகரிப்பைச் சேமி
+dlgSave.Title= சேகரிப்பைச் சேமி
 dlgOpen.Title=திறந்த சேகரிப்பு
 actNew.Caption=புதிய
 actOpen.Caption=Open
@@ -2124,8 +2124,8 @@ actFlipV.Caption=செங்குத்தாக புரட்டவும�
 actSymbolColorize.Caption=Update நிறம்
 actDuplicate.Caption=நகல்
 actRename.Caption=மறுபெயரிடு
-சின்னம்1.Caption=சின்னம்
-மேலடுக்கு1.Caption = மேலடுக்கு
+Symbol1.Caption=சின்னம்
+Overlay1.Caption = மேலடுக்கு
 grpColorMode.Caption= வண்ண முறை
 cbDarkMode.Caption=Dark Mode
 cbMonochrome.Caption=மோனோக்ரோம்
