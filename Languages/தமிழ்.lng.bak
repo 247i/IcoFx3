@@ -1359,53 +1359,53 @@ lblPosX.Caption=X நிலை
 lblPosY.Caption=Y நிலை
 
 [frmResize]
-frmResize.Caption=மறுஅளவாக்கு
-lblWidth.Caption=அகலம்:
-lblHeight.Caption= உயரம்:
-btnCancel.Caption=ரத்துசெய்
-btnOK.Caption=சரி
-rbCustom.Caption=தனிப்பயன்:
-cbSquare.Caption=சதுரம்
-rbPercentage.Caption=சதவீதம்:
-lblResample.Caption=மறு மாதிரி
-cmbInterpolation.Item0=அருகில் உள்ளவர்
-cmbInterpolation.Item1=பைலினியர்
-cmbInterpolation.Item2=உயர் தரமான பைலினியர்
+frmResize.Caption=Resize
+lblWidth.Caption=Width:
+lblHeight.Caption=Height:
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+rbCustom.Caption=Custom:
+cbSquare.Caption=Square
+rbPercentage.Caption=Percentage:
+lblResample.Caption=Resample
+cmbInterpolation.Item0=Nearest Neighbour
+cmbInterpolation.Item1=Bilinear
+cmbInterpolation.Item2=High Quality Bilinear
 cmbInterpolation.Item3=Bicubic
-cmbInterpolation.Item4=உயர் தரமான பைகுபிக்
+cmbInterpolation.Item4=High Quality Bicubic
 
 [frmToolCrop]
-lblLeft.Caption=இடது
-lblTop.Caption=மேல்
-lblWidth.Caption=அகலம்
-lblHeight.Caption=உயரம்
-btnCrop.Caption=பயிர்
-btnReset.Caption=மீட்டமை
+lblLeft.Caption=Left
+lblTop.Caption=Top
+lblWidth.Caption=Width
+lblHeight.Caption=Height
+btnCrop.Caption=Crop
+btnReset.Caption=Reset
 
 [frmImageToIco]
-frmImageToIco.Caption=படத்திலிருந்து விண்டோஸ் ஐகான்
-lblMsg.Caption=ஐகானில் பின்வரும் பட வடிவங்களைச் சேர்க்கவும்:
+frmImageToIco.Caption=Windows Icon From Image
+lblMsg.Caption=Include the following image formats in the icon:
 lblVista.Caption=Windows Vista
-btnCancel.Caption=ரத்துசெய்
-btnOK.Caption=சரி
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
 btnAll.Caption=All
-btnRecomended.Caption=பரிந்துரைக்கப்பட்டது
-btnNone.Caption=இல்லை
-grpOther.Caption= பிற வடிவங்கள்
-grpSharpen.Caption= கூர்மைப்படுத்து
-cbSharpen.Caption=அளவுக்கு பிறகு கூர்மைப்படுத்து
+btnRecomended.Caption=Recommended
+btnNone.Caption=None
+grpOther.Caption= Other formats 
+grpSharpen.Caption= Sharpen 
+cbSharpen.Caption=Sharpen after resize
 
 [frmImageToMacIco]
-frmImageToMacIco.Caption=படத்திலிருந்து மேகிண்டோஷ் ஐகான்
-lblMsg.Caption=ஐகானில் பின்வரும் பட வடிவங்களைச் சேர்க்கவும்:
-btnCancel.Caption=ரத்துசெய்
-btnOK.Caption=சரி
-btnRecomended.Caption=பரிந்துரைக்கப்பட்டது
-btnNone.Caption=இல்லை
-grpFormats.Caption= பரிந்துரைக்கப்பட்ட பட வடிவங்கள்
-grpDeprecated.Caption= பிற பட வடிவங்கள்
-grpSharpen.Caption= கூர்மைப்படுத்து
-cbSharpen.Caption=அளவுக்கு பிறகு கூர்மைப்படுத்து
+frmImageToMacIco.Caption=Macintosh Icon From Image
+lblMsg.Caption=Include the following image formats in the icon:
+btnCancel.Caption=Cancel
+btnOK.Caption=OK
+btnRecomended.Caption=Recommended
+btnNone.Caption=None
+grpFormats.Caption= Recommended Image Formats 
+grpDeprecated.Caption= Other Image Formats 
+grpSharpen.Caption= Sharpen 
+cbSharpen.Caption=Sharpen after resize
 
 [frmImageManager]
 frmImageManager.Caption=Image Manager
